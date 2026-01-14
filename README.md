@@ -25,4 +25,16 @@ Hi, this repository is for learning new words for those who are working or study
 22. **PRB/RB**: Please Reply By
 23. **PFA/PSA**: Please Find Attachment/See Attachment
 24. **RSVP**: Répondez S'il Vous Plaît (Please Respond)
-25. **TIA**: Thanks in Advance 
+25. **TIA**: Thanks in Advance
+26. **IAM**: In a Meeting (often for auto-replies)
+27. **LET**: Leaving Early Today
+28. **OOO**: Out of Office
+29. **PTO**: Paid Time Off
+30. **IDK** – I Don’t Know
+31. **OT** – Off Topic
+32. **BTW** – By The Way
+33. **TED** – Tell, Explain, Describe
+34. **Y/N** – Yes or No?
+35. **MTD** – Month-to-Date
+36. **YTD** – Year-to-Date
+37. **RR** – Reply Requested
