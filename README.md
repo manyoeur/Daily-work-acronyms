@@ -7,7 +7,7 @@ Hi, this repository is for learning new words for those who are working or study
 4. **EOD**: End of day
 5. **TL**: Too long
 6. **DR**: Don't read for summaries
-7. **LMK***: Let me know.
+7. **LMK**: Let me know.
 8. **IMO**: In my opionion.
 9. **CC**: Carbon Copy.
 10. **BCC**: Blind carbon copy.
