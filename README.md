@@ -38,3 +38,6 @@ Hi, this repository is for learning new words for those who are working or study
 35. **MTD** – Month-to-Date
 36. **YTD** – Year-to-Date
 37. **RR** – Reply Requested
+38. **SFW** – Safe For Work
+39. **FTE** – Full-Time Employee
+40. **PTE** – Part-Time Employee
